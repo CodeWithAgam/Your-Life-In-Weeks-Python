@@ -11,16 +11,14 @@
 ```
 
 ```
-> Output: 
->
-<<<<<<< HEAD
 > **$** Output: 
 >
 > **$** You have 28105 days, 4004 weeks, and 924 months left.
 
-## This project is licensed under the Apache License, Version 2.0. 
-### You're open to make changes and contribute to the project, please make a pull request!
-=======
 > You have 28105 days, 4004 weeks, and 924 months left.
 ```
->>>>>>> a65bca6a9e583befbb42b3e9b9832b4ce2a215fc
+
+## License:
+
+### This project is licensed under the Apache License, Version 2.0. 
+### You're open to make changes and contribute to the project, please make a pull request!
